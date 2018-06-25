@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\bin\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\bin\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.runtimeconfig.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\bin\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.runtimeconfig.dev.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\bin\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\obj\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\obj\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\obj\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\obj\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\bin\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\obj\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P05_ChangeTownNamesCasing\obj\Debug\netcoreapp2.0\P05_ChangeTownNamesCasing.pdb

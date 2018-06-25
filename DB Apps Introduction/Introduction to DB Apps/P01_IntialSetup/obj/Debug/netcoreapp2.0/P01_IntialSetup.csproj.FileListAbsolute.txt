@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\bin\Debug\netcoreapp2.0\P01_IntialSetup.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\bin\Debug\netcoreapp2.0\P01_IntialSetup.runtimeconfig.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\bin\Debug\netcoreapp2.0\P01_IntialSetup.runtimeconfig.dev.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\bin\Debug\netcoreapp2.0\P01_IntialSetup.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\obj\Debug\netcoreapp2.0\P01_IntialSetup.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\obj\Debug\netcoreapp2.0\P01_IntialSetup.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\obj\Debug\netcoreapp2.0\P01_IntialSetup.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\obj\Debug\netcoreapp2.0\P01_IntialSetup.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\bin\Debug\netcoreapp2.0\P01_IntialSetup.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\obj\Debug\netcoreapp2.0\P01_IntialSetup.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P01_IntialSetup\obj\Debug\netcoreapp2.0\P01_IntialSetup.pdb
