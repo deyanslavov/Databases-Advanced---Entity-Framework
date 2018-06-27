@@ -1,0 +1,10 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P09_IncreaseAgeStoredProcedure\obj\Debug\netcoreapp2.0\P09_IncreaseAgeStoredProcedure.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P09_IncreaseAgeStoredProcedure\obj\Debug\netcoreapp2.0\P09_IncreaseAgeStoredProcedure.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P09_IncreaseAgeStoredProcedure\obj\Debug\netcoreapp2.0\P09_IncreaseAgeStoredProcedure.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P09_IncreaseAgeStoredProcedure\bin\Debug\netcoreapp2.0\P09_IncreaseAgeStoredProcedure.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P09_IncreaseAgeStoredProcedure\bin\Debug\netcoreapp2.0\P09_IncreaseAgeStoredProcedure.runtimeconfig.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P09_IncreaseAgeStoredProcedure\bin\Debug\netcoreapp2.0\P09_IncreaseAgeStoredProcedure.runtimeconfig.dev.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P09_IncreaseAgeStoredProcedure\bin\Debug\netcoreapp2.0\P09_IncreaseAgeStoredProcedure.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P09_IncreaseAgeStoredProcedure\bin\Debug\netcoreapp2.0\P09_IncreaseAgeStoredProcedure.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P09_IncreaseAgeStoredProcedure\obj\Debug\netcoreapp2.0\P09_IncreaseAgeStoredProcedure.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P09_IncreaseAgeStoredProcedure\obj\Debug\netcoreapp2.0\P09_IncreaseAgeStoredProcedure.pdb

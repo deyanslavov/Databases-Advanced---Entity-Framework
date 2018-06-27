@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\bin\Debug\netcoreapp2.0\P07_PrintAllMinionNames.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\bin\Debug\netcoreapp2.0\P07_PrintAllMinionNames.runtimeconfig.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\bin\Debug\netcoreapp2.0\P07_PrintAllMinionNames.runtimeconfig.dev.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\bin\Debug\netcoreapp2.0\P07_PrintAllMinionNames.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\bin\Debug\netcoreapp2.0\P07_PrintAllMinionNames.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\obj\Debug\netcoreapp2.0\P07_PrintAllMinionNames.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\obj\Debug\netcoreapp2.0\P07_PrintAllMinionNames.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\obj\Debug\netcoreapp2.0\P07_PrintAllMinionNames.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\obj\Debug\netcoreapp2.0\P07_PrintAllMinionNames.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\obj\Debug\netcoreapp2.0\P07_PrintAllMinionNames.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\DB Apps Introduction\Introduction to DB Apps\P07_PrintAllMinionNames\obj\Debug\netcoreapp2.0\P07_PrintAllMinionNames.csprojResolveAssemblyReference.cache
