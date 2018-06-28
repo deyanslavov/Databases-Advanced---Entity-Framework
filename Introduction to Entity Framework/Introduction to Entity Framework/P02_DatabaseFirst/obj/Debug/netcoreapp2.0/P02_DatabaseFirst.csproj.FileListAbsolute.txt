@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.runtimeconfig.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.runtimeconfig.dev.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Introduction to Entity Framework\Introduction to Entity Framework\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
