@@ -1,0 +1,9 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Advanced Relations and Aggregation\Advanced Relations\P01_BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Advanced Relations and Aggregation\Advanced Relations\P01_BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Advanced Relations and Aggregation\Advanced Relations\P01_BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Advanced Relations and Aggregation\Advanced Relations\P01_BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Advanced Relations and Aggregation\Advanced Relations\P01_BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Advanced Relations and Aggregation\Advanced Relations\P01_BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Advanced Relations and Aggregation\Advanced Relations\P01_BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Advanced Relations and Aggregation\Advanced Relations\P01_BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Advanced Relations and Aggregation\Advanced Relations\P01_BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.pdb
