@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AutoMapper.Data\AutoMapper.Data.csproj" />
+    <ProjectReference Include="..\AutoMapper.ModelDtos\AutoMapper.ModelDtos.csproj" />
+    <ProjectReference Include="..\AutoMapping.Models\AutoMapper.Models.csproj" />
+  </ItemGroup>
+
+</Project>

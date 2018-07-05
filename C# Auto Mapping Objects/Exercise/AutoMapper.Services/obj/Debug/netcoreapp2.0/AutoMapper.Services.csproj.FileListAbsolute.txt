@@ -1,0 +1,15 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\bin\Debug\netcoreapp2.0\AutoMapper.Services.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\bin\Debug\netcoreapp2.0\AutoMapper.Services.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\bin\Debug\netcoreapp2.0\AutoMapper.Services.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\bin\Debug\netcoreapp2.0\AutoMapper.Data.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\bin\Debug\netcoreapp2.0\AutoMapper.ModelDtos.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\bin\Debug\netcoreapp2.0\AutoMapper.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\bin\Debug\netcoreapp2.0\AutoMapper.Data.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\bin\Debug\netcoreapp2.0\AutoMapper.ModelDtos.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\bin\Debug\netcoreapp2.0\AutoMapper.Models.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\obj\Debug\netcoreapp2.0\AutoMapper.Services.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\obj\Debug\netcoreapp2.0\AutoMapper.Services.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\obj\Debug\netcoreapp2.0\AutoMapper.Services.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\obj\Debug\netcoreapp2.0\AutoMapper.Services.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\obj\Debug\netcoreapp2.0\AutoMapper.Services.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\C# Auto Mapping Objects\Exercise\AutoMapper.Services\obj\Debug\netcoreapp2.0\AutoMapper.Services.pdb

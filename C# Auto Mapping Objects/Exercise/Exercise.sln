@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper.Client", "AutoMapping\AutoMapper.Client.csproj", "{9CB953E4-C545-49F5-912F-DC532FA48F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper.Models", "AutoMapping.Models\AutoMapper.Models.csproj", "{EB45DEC8-F1F9-42FB-BC0F-FE26B3EE6843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper.Services", "AutoMapper.Services\AutoMapper.Services.csproj", "{904914E2-E859-43C6-A72D-4571F9BAC26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper.Data", "AutoMapper.Data\AutoMapper.Data.csproj", "{C1261197-0CBC-4288-B363-1E84E8E681EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper.ModelDtos", "AutoMapper.ModelDtos\AutoMapper.ModelDtos.csproj", "{0EF8EBDA-93D4-49BF-9596-11E0DB7EF2C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB953E4-C545-49F5-912F-DC532FA48F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB953E4-C545-49F5-912F-DC532FA48F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB953E4-C545-49F5-912F-DC532FA48F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB953E4-C545-49F5-912F-DC532FA48F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB45DEC8-F1F9-42FB-BC0F-FE26B3EE6843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB45DEC8-F1F9-42FB-BC0F-FE26B3EE6843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB45DEC8-F1F9-42FB-BC0F-FE26B3EE6843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB45DEC8-F1F9-42FB-BC0F-FE26B3EE6843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904914E2-E859-43C6-A72D-4571F9BAC26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904914E2-E859-43C6-A72D-4571F9BAC26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904914E2-E859-43C6-A72D-4571F9BAC26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904914E2-E859-43C6-A72D-4571F9BAC26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1261197-0CBC-4288-B363-1E84E8E681EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1261197-0CBC-4288-B363-1E84E8E681EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1261197-0CBC-4288-B363-1E84E8E681EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1261197-0CBC-4288-B363-1E84E8E681EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF8EBDA-93D4-49BF-9596-11E0DB7EF2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF8EBDA-93D4-49BF-9596-11E0DB7EF2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF8EBDA-93D4-49BF-9596-11E0DB7EF2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF8EBDA-93D4-49BF-9596-11E0DB7EF2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EDE3591-CD23-451D-9F02-2516888AAD39}
+	EndGlobalSection
+EndGlobal
