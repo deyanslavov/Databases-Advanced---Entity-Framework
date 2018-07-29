@@ -1,0 +1,8 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Exam Preparations\C# DB Advanced Retake Exam - 06.09.2017\Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Exam Preparations\C# DB Advanced Retake Exam - 06.09.2017\Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Exam Preparations\C# DB Advanced Retake Exam - 06.09.2017\Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Exam Preparations\C# DB Advanced Retake Exam - 06.09.2017\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Exam Preparations\C# DB Advanced Retake Exam - 06.09.2017\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Exam Preparations\C# DB Advanced Retake Exam - 06.09.2017\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Exam Preparations\C# DB Advanced Retake Exam - 06.09.2017\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Exam Preparations\C# DB Advanced Retake Exam - 06.09.2017\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.pdb
