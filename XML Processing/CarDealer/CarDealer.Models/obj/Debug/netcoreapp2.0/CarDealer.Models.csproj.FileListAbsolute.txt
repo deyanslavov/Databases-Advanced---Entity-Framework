@@ -1,0 +1,9 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\CarDealer\CarDealer.Models\bin\Debug\netcoreapp2.0\CarDealer.Models.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\CarDealer\CarDealer.Models\bin\Debug\netcoreapp2.0\CarDealer.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\CarDealer\CarDealer.Models\bin\Debug\netcoreapp2.0\CarDealer.Models.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\CarDealer\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\CarDealer\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\CarDealer\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\CarDealer\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\CarDealer\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\CarDealer\CarDealer.Models\obj\Debug\netcoreapp2.0\CarDealer.Models.pdb
