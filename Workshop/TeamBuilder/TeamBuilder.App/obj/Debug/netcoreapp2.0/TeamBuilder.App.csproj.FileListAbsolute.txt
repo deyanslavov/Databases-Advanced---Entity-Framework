@@ -1,0 +1,15 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.App.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.App.runtimeconfig.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.App.runtimeconfig.dev.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.App.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.App.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.Data.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.Data.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\bin\Debug\netcoreapp2.0\TeamBuilder.Models.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.App\obj\Debug\netcoreapp2.0\TeamBuilder.App.pdb

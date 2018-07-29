@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Models.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\Workshop\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.pdb
