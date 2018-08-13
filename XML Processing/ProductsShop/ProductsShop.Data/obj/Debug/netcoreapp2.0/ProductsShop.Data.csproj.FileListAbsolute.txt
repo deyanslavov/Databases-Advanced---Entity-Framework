@@ -1,0 +1,22 @@
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\External Format Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.deps.json
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Data.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.AssemblyInfo.cs
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.dll
+E:\Coding\SoftUni\Databases Advanced - Entity Framework\XML Processing\ProductsShop\ProductsShop.Data\obj\Debug\netcoreapp2.0\ProductsShop.Data.pdb

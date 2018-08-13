@@ -1,0 +1,11 @@
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\Dido\Desktop\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojResolveAssemblyReference.cache

@@ -1,0 +1,61 @@
+<students>
+	<student>
+		<name>Ivan Ivanov</name>
+		<gender>Male</gender>
+		<birthDate>1999/12/23</birthDate>
+		<phoneNumber>0000000000</phoneNumber>
+		<email>ivan.ivanov@abv.bg</email>
+		<university>SoftUni</university>
+		<specialty>C# Web Developer</specialty>
+		<facultyNumber>12312313</facultyNumber>
+		<exams>
+			<exam>
+				<name>OOP Advanced</name>
+				<dateTaken>2018/02/06</dateTaken>
+				<grade>6.00</grade>
+			</exam>
+			<exam>
+				<name>OOP Basics</name>
+				<dateTaken>2018/01/06</dateTaken>
+				<grade>6.00</grade>
+			</exam>
+			<exam>
+				<name>JS Core</name>
+				<dateTaken>2018/02/06</dateTaken>
+				<grade>5.00</grade>
+			</exam>
+			<exam>
+				<name>Web</name>
+				<dateTaken>2017/02/06</dateTaken>
+				<grade>4.16</grade>
+			</exam>
+		</exams>
+	</student>
+	<student>
+		<name>Francesca Lombardo</name>
+		<gender>Female</gender>
+		<birthDate>1979/02/09</birthDate>
+		<phoneNumber>435324234</phoneNumber>
+		<email>fr.lo@gmail.com</email>
+		<university>MMA Miami</university>
+		<specialty>Do Nothing</specialty>
+		<facultyNumber>5323152</facultyNumber>
+		<exams>
+			<exam>
+				<name>Smiling</name>
+				<dateTaken>2018/02/06</dateTaken>
+				<grade>6.00</grade>
+			</exam>
+			<exam>
+				<name>Starringing</name>
+				<dateTaken>2018/01/06</dateTaken>
+				<grade>6.00</grade>
+			</exam>
+			<exam>
+				<name>Sports</name>
+				<dateTaken>2018/02/06</dateTaken>
+				<grade>5.00</grade>
+			</exam>
+		</exams>
+	</student>
+</students>
